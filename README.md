@@ -24,12 +24,6 @@ React - React Native - Expo - TypeScript - JavaScript - NestJS - Node.js - Supab
 
 ---
 
-## Estadisticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-zeballos&layout=compact&theme=tokyonight&count_private=true)
-
----
-
 ## Contacto
 
 Portafolio: https://zebware.org
