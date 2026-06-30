@@ -1,16 +1,36 @@
-## Hi there 👋
+# Carlos Zeballos
 
-<!--
-**carlos-zeballos/carlos-zeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** | React - React Native - Expo - NestJS - Supabase
 
-Here are some ideas to get you started:
+Desarrollo soluciones web y moviles orientadas a operaciones, administracion y transformacion digital.
+Actualmente trabajo en proyectos comerciales mediante Zebware (https://zebware.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+La mayoria de los repositorios son privados por confidencialidad con mis clientes.
+
+---
+
+## Tecnologias
+
+React - React Native - Expo - TypeScript - JavaScript - NestJS - Node.js - Supabase - PostgreSQL - MySQL - SQL Server - Git
+
+---
+
+## Proyectos destacados
+
+- Sistema de pedidos para restaurantes: App movil con React Native y Expo
+- Juego movil: Desarrollado con React Native y Expo
+- Plataformas web empresariales: Soluciones a medida para clientes
+- Automatizacion de procesos comerciales: Flujos digitales para operaciones
+
+---
+
+## Estadisticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-zeballos&layout=compact&theme=tokyonight&count_private=true)
+
+---
+
+## Contacto
+
+Portafolio: https://zebware.org
+LinkedIn: https://linkedin.com/in/carlos-zeballos-28500a202
